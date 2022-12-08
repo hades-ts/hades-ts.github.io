@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hades-ts.github.io/blog</id>
-    <title>Hades Docs Blog</title>
+    <title>@hades-ts/hades Blog</title>
     <updated>2022-06-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hades-ts.github.io/blog"/>
-    <subtitle>Hades Docs Blog</subtitle>
+    <subtitle>@hades-ts/hades Blog</subtitle>
     <icon>https://hades-ts.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[New Docs Site]]></title>
