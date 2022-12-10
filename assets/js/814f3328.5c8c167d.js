@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_hades_ts_docs=self.webpackChunk_hades_ts_docs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"New Docs Site","permalink":"/blog/new-docs-site"}]}')}}]);
