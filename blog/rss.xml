@@ -17,7 +17,7 @@
             <content:encoded><![CDATA[<p>Hey all.</p>
 <p>There's a new docs site... and you're looking at it!</p>
 <p>And now I'm gonna nerd out about it. :)</p>
-<h2 class="anchor anchorWithStickyNavbar_njKK" id="docusaurus">Docusaurus<a href="https://hades-ts.github.io/blog/new-docs-site#docusaurus" class="hash-link" aria-label="Direct link to Docusaurus" title="Direct link to Docusaurus">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_P5hQ" id="docusaurus">Docusaurus<a href="https://hades-ts.github.io/blog/new-docs-site#docusaurus" class="hash-link" aria-label="Direct link to Docusaurus" title="Direct link to Docusaurus">​</a></h2>
 <p>The new site is built ontop of <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus V2</a>.</p>
 <p>Docusaurus is a pretty great static site generator from Facebook. It's basically NextJS with the SSR ripped out.</p>
 <p>Here are some highlights:</p>
