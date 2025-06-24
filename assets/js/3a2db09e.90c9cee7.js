@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_hades_ts_docs=self.webpackChunk_hades_ts_docs||[]).push([[8121],{8070:s=>{s.exports=JSON.parse('{"tags":[{"label":"news","permalink":"/blog/tags/news","count":1}]}')}}]);

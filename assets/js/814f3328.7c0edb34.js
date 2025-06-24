@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_hades_ts_docs=self.webpackChunk_hades_ts_docs||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"New Docs Site","permalink":"/blog/new-docs-site","unlisted":false,"date":"2022-06-25T00:00:00.000Z"}]}')}}]);
